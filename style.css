@@ -1,0 +1,114 @@
+body{
+
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+.sq{
+
+
+
+
+	height: 150px;
+
+	width:150px;
+
+	background-color: orange;
+
+	
+}
+
+.rectangle{
+
+     width: 200px;
+
+	height: 100px;
+
+	background-color: yellow;
+
+	
+}
+
+.circle
+
+
+{
+
+
+
+	
+	 
+	height: 100px;
+	width: 200px;
+	border-radius: 100px/50px;
+
+	background-color: skyblue;
+
+}
+
+.lefttriangle{
+
+		height: 0;
+		width: 0;
+
+
+		
+
+
+		border-top: 150px solid   transparent;
+
+		border-bottom:150px  solid transparent;
+
+		border-right: 100px solid #777;
+
+
+		
+}
+
+.righttriangle{
+
+	height: 0;
+	width: 0;
+
+    border-top: 150px solid   transparent;
+
+		border-bottom:150px  solid transparent;
+
+		border-left: 100px solid #777;
+
+
+
+}
+.triangleup{
+
+	height: 0;
+	width: 0;
+
+      border-left: 120px solid   transparent;
+
+		border-right:120px  solid transparent;
+
+		border-bottom: 100px solid #937;
+
+
+
+}
+
+.triangledown{
+
+	height: 0;
+	width: 0;
+
+      border-left: 150px solid   transparent;
+
+		border-right:150px  solid transparent;
+
+		border-top:120px solid #557;
+
+
+
+}
+
